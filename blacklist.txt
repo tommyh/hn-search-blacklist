@@ -1,7 +1,7 @@
 # seo spam
 *://*.pinterest.com/*
 
-# code-search-blacklist: https://raw.githubusercontent.com/tommyh/code-search-blacklist/patch-1/uBlacklist.txt
+# code-search-blacklist: https://raw.githubusercontent.com/jhchabran/code-search-blacklist/main/uBlacklist.txt
 *://*.codegrepper.com/*
 *://*.w3schools.com/*
 *://*.geeksforgeeks.org/*
